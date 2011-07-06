@@ -1,0 +1,3 @@
+# RoR Tutorial: Demo App
+
+This is the demonstration application for Ruby on Rails Tutorial...
